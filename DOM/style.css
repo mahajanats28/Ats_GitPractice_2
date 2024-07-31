@@ -2,5 +2,28 @@
 h1 {
 
     color: blue;
-    background-color: chocolate;
+    background-color: chartreuse;
+}
+
+p{
+
+    color: blue;
+    background-color: chartreuse;
+}
+.fr {
+
+color: darkblue;
+background-color: burlywood;
+
+}
+
+.vg{
+
+    color: black;
+    background-color: gold;
+}
+.cl{
+
+    color: red;
+    background-color:black;
 }
