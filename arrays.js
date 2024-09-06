@@ -235,7 +235,7 @@ console.log(a)
  console.log(m)// return new length of Array
  console.log(names) // add Nakul new element to an array
  
-// Method--> pop() use to last element of an 
+// Method--> pop() use to remove last element of an 
 //   Action ->  delete last element of an array
 //   return-> return deleted element   
 

@@ -34,9 +34,9 @@ console.log(c2)
 console.log(c3)
 
 
-//            Destructing  Array []  objects {}
+//        Destructing  Array []  objects {}
 
-let arrNum = [12,14.17,18,21.50,24,] ;
+let arrNum = [12,14.17,18,21.50,24] ;
 
 let [a,b,c,d,e,f]  = arrNum
 
