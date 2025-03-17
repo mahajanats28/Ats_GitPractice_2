@@ -37,7 +37,7 @@ chinmay.DisplayName()
 
 // Object created method
 
-let detail = Object create({})
+let detail = Object.create({})
 
 detail.F_name = "Shirsha"
 detail.l_name = "Shivhare"

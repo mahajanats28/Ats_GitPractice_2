@@ -60,7 +60,7 @@ console.log(q2)// W
 
 //concat()Combines the text of two or more strings and returns a new string
 
-let str1 = "I am learing javascript";
+let str1 = "I am learning javascript";
 let str2 = " and also learing Pythone" ;
 
 console.log(str1.concat(str2))

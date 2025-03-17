@@ -69,7 +69,7 @@
  
  let new_str = `Art of Living`;
 
-//  charAt() pass index return elemnet chareter 
+//  charAt() pass index return an elemnet
  console.log(new_str.charAt(7));// L
  
 //includes() 
@@ -110,7 +110,7 @@ console.log(new_str.endsWith('ing'));
 
 // trim() trimstart()  trimend()
 
-// trim()
+// trim()// its removes white space of string**
 let country = "State of America     ";
 console.log(country)
 console.log(country.trim());
@@ -138,9 +138,9 @@ console.log(str2.toLowerCase());
 // split()use to splite String to an Array[]
 // ** split() its return Array[] == join[] its return string **
 
-let partes = "mahajanatul92@gmail.com";
+let partes = "mahajanatul97@gmail.com";
 
-let subpart = partes.split('92');// return array[]
+let subpart = partes.split('97');// return array[]
 console.log(subpart);
 
 let subpart2 = partes.split('@');// retrun array[]

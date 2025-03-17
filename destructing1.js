@@ -15,7 +15,7 @@ console.log(detail);
 
 //  alising the properties
 
-let {fname:fn,lname:ln,Age:ag} =   detail ;
+let {fname:fn,lname:ln,Age:ag} = detail ;
 
 console.log(fn);
 console.log(ln)

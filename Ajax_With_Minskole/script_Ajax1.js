@@ -18,7 +18,7 @@ if(x == y){
 })
 
 // consume 
-// then method use with resolve valaues
+// then method use with resolve values
 // we pass 2 function to then method
 
 pro
@@ -40,10 +40,10 @@ let pro1 = new Promise(function(resolve,reject){
 
     if(a == b){
 
-        console.log("Its Promise")
+        resolve("Its Promise")
     }else{
 
-        console.log("Promis Fail")
+        reject("Promis Fail")
     }
 })
 

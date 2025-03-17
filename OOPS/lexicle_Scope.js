@@ -53,7 +53,7 @@ function addition(){
   return x + y
   
  // console.log('Hiiiii') its not run
-// return is last statement block
+// return is last statement  block
 }
 
 addition()

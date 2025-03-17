@@ -4,14 +4,14 @@ console.log(a)
 
 // // //                         **  Aarry **
 
-// // // Array is used to store multipal values in single varible , it wil come with 
-// // // many inbuit methods that makes easy to manupulate and access data hold by an array
-// // // Arrays stores the value by an Index, array index start from [0]
+//  Array is used to store multipal values in single varible , it wil come with 
+//  many inbuit methods that makes easy to manupulate and access data hold by an array
+//  Arrays stores the value by an Index, array index start from [0]
 
 
 // // //     Define an Array
 
-// // let name  = ["Atul","Krishna","Amit","Subhuti","Kavay"]// <--Aarray constructor
+// // let name = ["Atul","Krishna","Amit","Subhuti","Kavay"]// <--Aarray constructor
 
 // // let teams = ["Dehli","Gujrat","Mumbai","Chennai","RCB"] // <-- Array constructor
 
@@ -21,15 +21,16 @@ console.log(a)
 // // let channel = ["AbpMaja","Ibn7","SamTv","LoksahiMarathi","TV9Marathi"]
 // // //  Length        1        2       3           4              5
 
-// // //  Retrive The Value of an Aarry (Fetching data)
-// // console.log(channel[0])// AbpMaja
-// // console.log(channel[1])//  Ibn7
-// // console.log(channel[2])//  SamTv
-// // console.log(channel[3])//  LoksahiMarathi
-// // console.log(channel[4])//  TV9Marathi
+//  Retrive The Value from an Aarry (Fetching data)
+//  console.log(channel[0])// AbpMaja
+//  console.log(channel[1])//  Ibn7
+//  console.log(channel[2])//  SamTv
+// console.log(channel[3])//  LoksahiMarathi
+//  console.log(channel[4])//  TV9Marathi
 
 // //  console.log(channel.length) // 5 length of an Array
 // //  console.log(channel.length-1)// 4
+
 // //  // Programm 2
  
 // //   //    Index    0      1        2       3
@@ -44,7 +45,7 @@ console.log(a)
 // //  console.log(fruit[3])// Papaya
  
 // //  console.log(fruit.length) // 4
-// //  console.log(fruit.length-1)// 3
+// //  console.log(fruit.length-1)// 3 inclusive actual index of array
 
 // // // programm 3 
 // //  let vegitable = ["Potato","Tomato","Binjal","Onion","Spinach"]
@@ -52,8 +53,8 @@ console.log(a)
  
 // //  for(let i = 0 ; i <= 5 ; i++){
    
-// //   // console.log(i) //   0,1,2,3,4  gives index of values
-// //    console.log(vegitable[i])
+// //   // console.log(i) //   0,1,2,3,4  gives all index 
+// //    console.log(vegitable[i])  index values
 // //  }
  
  
@@ -136,7 +137,7 @@ console.log(a)
 //     for(let i = 0 ; i < 5 ; i++){
       
 //       console.log(i)// its give all index 0,1,2,3,4
-//       console.log(animals[i])
+//       console.log(animals[i]) all vaules of aaray
       
 //     }
     
@@ -235,7 +236,7 @@ console.log(a)
  console.log(m)// return new length of Array
  console.log(names) // add Nakul new element to an array
  
-// Method--> pop() use to remove last element of an 
+// Method--> pop() use to remove last element of an array
 //   Action ->  delete last element of an array
 //   return-> return deleted element   
 
@@ -262,7 +263,7 @@ console.log(animals)//  start element id deleted
 console.log(m3)// return deletd element-> Deer
 
 // Method includes() search the element inside 
-//        Action-> search the element inside array
+//        Action-> search the element inside An array
 //         Return-> retrun true if found that element else return false
 
   console.log(animals.includes("Tiger"));// true-> includes

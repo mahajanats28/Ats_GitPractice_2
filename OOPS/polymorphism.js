@@ -1,6 +1,10 @@
 // programm 1
 // ploymorphisam-> Many from of one things
+//ploymorphisam- Has ability to create a variable,a function, or an object that has
+// more than one from.
 
+// Method Overloading-> same class same method same parameter
+// is called method overloading
 
 class Humen {
   
@@ -79,7 +83,7 @@ class Humen {
   
   // creating intance 
   
-  let my_SBI = new SBI()
+  let My_SBI = new SBI()
   let w_Bank = new WorldBank()
   
   // calling over rride mathods of parent and sub class

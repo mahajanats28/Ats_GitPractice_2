@@ -45,7 +45,7 @@ class person {
   
   console.log(kanchan)
   
-  //   ** use Constructor in  user define object
+  //   **use Constructor in  user define object
   
   class person1 {
     

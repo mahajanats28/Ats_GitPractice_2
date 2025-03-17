@@ -10,8 +10,8 @@ console.log("Sunday is Holidays")
 //           ** Variables **
 
 // variable - it is a reserved memory location where we can store the value
-//   we can creat vairiables using let, const , var
-// let ,const ,var
+//   we can creat vairiables using let, const , var 
+// variable var -> no longer in use
 
 // js code is execute line by line: - it is a synchronus in nature
 

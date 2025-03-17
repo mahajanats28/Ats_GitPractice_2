@@ -51,7 +51,7 @@ Axshar.DisplayName()
 
 // programm 2
 
-// set property by using Construtr in object litler
+// set property by using Construtor in object litler
 
 class person_1 {
 
@@ -165,3 +165,7 @@ class person_3 {
         return my_City =cit
     }
 }
+
+let detail2 = new person_3()
+detail2.fName = "Mahajan"
+console.log(detail2)
